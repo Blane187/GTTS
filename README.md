@@ -1,2 +1,2 @@
-# LowRes-TTS
+# GTTS
 an custom TTS stuff i made
