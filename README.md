@@ -1,5 +1,5 @@
-# **GTTS (Google Text-to-Speech)**
-
+<h1 align="center"><b> GTTS (Google Text-to-Speech) <b></h1>
+ 
 **Introduction:**
 GTTS (Google Text-to-Speech) is a Python library and CLI tool that uses Google Text-to-Speech API to convert text to speech. It allows users to generate speech files directly from text strings or text files.
 
