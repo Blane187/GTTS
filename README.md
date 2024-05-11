@@ -37,7 +37,7 @@ This command will generate the same audio file as the Python example.
 For more detailed usage instructions and examples, refer to the [official documentation](https://gtts.readthedocs.io/en/latest/).
 
 **Contribution:**
-Contributions to GTTS are welcome! Feel free to open issues or submit pull requests on [GitHub](https://github.com/Blane187/GTTS).
+Contributions to GTTS are welcome! Feel free to open issues or submit pull requests on [GitHub]([https://github.com/Blane187/GTTS](https://github.com/Blane187/GTTS/pulls)).
 
 **License:**
 GTTS is licensed under the MIT License. See the [LICENSE](https://github.com/Blane187/GTTS/blob/master/LICENSE) file for details.
